@@ -1,10 +1,20 @@
 ---
 permalink: /
-title: "Welcome to my website"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This is the front page of a website that is powered by the
+
+#<p align="center">
+#  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+#</p>
+
+# About Me
+* I am Ekansh
+* My research interests lie in 
+* I received my Bachelor’s Degree in .
+
+# Recent News
