@@ -82,14 +82,13 @@ analytics:
 author:
   name             : "Ekansh Sareen"
   avatar           : "profile.png"
-  bio              : "Research Assistant 
-  SBILab, IIIT-D"
+  bio              : "Research Assistant at SBILab, IIIT-D"
   location         : "New Delhi-Lucknow"
   employer         : "SBILab/IIIT-Delhi"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rUONKJ8AAAAJ&hl=en"
   email            : "ekansh15139@iiitd.ac.in" 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
