@@ -21,7 +21,7 @@ Conferences
 <b>Understanding Functional Brain Activation using Source Localization of EEG Signals in Motor Imagery Tasks</b> <br> 
 Mansi Saxena, <b> Ekansh Sareen </b>, Anubha Gupta <br>
 <i>International Conference on COMmunication Systems & NETworkS (COMSNETS), Bengaluru, India</i> <br>
-<b><span style="color:red">(Best Paper Award Honorable Mention)</span></b>
+<b><span style="color:red">(Best Paper Award Honorable Mention)</span></b><br>
 Year: 2020 [Access paper](https://ieeexplore.ieee.org/abstract/document/9027409)
 
 <b>A Miniaturized Dual-Band Right Triangle Defected Ground Structure Band Stop Filter for Energy Harvesting Applications</b> <br> 
@@ -41,6 +41,6 @@ Data repository
 <b>Studying functional brain networks from dry electrode EEG set during music and resting states in neurodevelopment disorder</b> <br> 
 <b> Ekansh Sareen</b>, Lakshya Singh, Anubha Gupta, Blessin Varkey, and G. Krishnaveni Achary<br>
 <i>Mendeley Data</i> <br>
-<b><span style="color:red">(Downloads: 730+)</span></b>
+<b><span style="color:red">Downloads: 730+</span></b><br>
 Year: 2020 [Access repository](https://data.mendeley.com/datasets/fshy54ypyh/2)
 
