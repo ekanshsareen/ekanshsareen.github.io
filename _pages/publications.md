@@ -20,7 +20,7 @@ Conferences
 ---
 <b>Understanding Functional Brain Activation using Source Localization of EEG Signals in Motor Imagery Tasks</b> <br> 
 Mansi Saxena, <b> Ekansh Sareen </b>, Anubha Gupta <br>
-<i>International Conference on COMmunication Systems & NETworkS (COMSNETS), Bengaluru, India</i> <br>
+<i>International Conference on COMmunication Systems & NETworkS (COMSNETS), Bengaluru, India</i>
 <b><span style="color:red">(Best Paper Award Honorable Mention)</span></b><br>
 Year: 2020 | [Access paper](https://ieeexplore.ieee.org/abstract/document/9027409)
 
