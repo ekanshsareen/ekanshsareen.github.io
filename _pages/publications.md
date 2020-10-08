@@ -38,7 +38,7 @@ Year: 2019 | [Access paper](https://www.biorxiv.org/content/10.1101/759738v1.abs
 
 Data repository
 ---
-<b>Studying functional brain networks from dry electrode EEG set during music and resting states in neurodevelopment disorder</b> <br> 
+<b>EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and music stimuli</b> <br> 
 <b> Ekansh Sareen</b>, Lakshya Singh, Anubha Gupta, Blessin Varkey, and G. Krishnaveni Achary<br>
 <i>Mendeley Data</i> <br>
 <b><span style="color:red">Downloads: 730+</span></b><br>
