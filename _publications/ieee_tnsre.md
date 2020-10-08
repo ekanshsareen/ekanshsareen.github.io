@@ -6,8 +6,6 @@ year: 2020
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'E. Sareen, L. Singh, A. Gupta, R. Verma, G. Krishnaveni Achary and B. Varkey, (2020) "Functional Brain Connectivity Analysis in Intellectual Developmental Disorder during Music Perception," in <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering </i>, doi: 10.1109/TNSRE.2020.3024937.'
-
-#Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 ## Abstract
