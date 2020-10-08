@@ -11,9 +11,9 @@ Journals
 <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <br>
 Year: 2020 | [Access paper](https://doi.org/10.1109/TNSRE.2020.3024937)
 
-<b>EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli</b> <br> 
+<b>[EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli](https://ekanshsareen.github.io/publications/dib_article)</b> <br>
 <b> Ekansh Sareen </b>, Lakshya Singh, Blessin Varkey, G. Krishnaveni Achary, and Anubha Gupta <br>
-<i>Data in Brief</i> <br>
+<i>Data in Brief, Elsevier</i> <br>
 Year: 2020 | [Access paper](https://www.sciencedirect.com/science/article/pii/S2352340920303826)
 
 Conferences
