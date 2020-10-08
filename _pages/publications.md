@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ---
-subtitle: "Journals"
+Journals
 ---
 <br>
 <br> <b>Functional Brain Connectivity Analysis in Intellectual Developmental Disorder during Music Perception</b> <br> 
