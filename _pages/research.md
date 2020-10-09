@@ -17,7 +17,7 @@ author_profile: true
 ## Project 4
 
 
-projects |
+ |
 ---------|
 project description here|
 project description here|
