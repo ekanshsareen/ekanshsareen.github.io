@@ -3,6 +3,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Journals
+Projects
 ---
-<b>[Functional Brain Connectivity Analysis in Intellectual Developmental Disorder during Music Perception](https://ekanshsareen.github.io/publications/ieee_tnsre)</b> <br> 
+# Project 1
+
+# Project 2
+
+# Project 3
+
+# Project 4
+
+
