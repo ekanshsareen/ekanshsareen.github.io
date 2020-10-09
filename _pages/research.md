@@ -17,7 +17,7 @@ author_profile: true
 ## Project 4
 
 
- |
+ Projects|
 ---------|
-project description here|
-project description here|
+project description here <img align="right" width="250" height="125" src="https://ekanshsareen.github.io/files/rp_1.png">|
+project description here <img align="right" width="250" height="125" src="https://ekanshsareen.github.io/files/rp_1.png">|
