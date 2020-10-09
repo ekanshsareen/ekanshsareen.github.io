@@ -6,7 +6,7 @@ author_profile: true
 
 ## Project 1
 <p>
-<img align="right" src="https://ekanshsareen.github.io/files/rp_1.jpg">
+<img align="right" src="https://ekanshsareen.github.io/files/rp_1.png">
   hello this images
 </p>
 
