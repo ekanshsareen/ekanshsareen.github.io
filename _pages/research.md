@@ -3,14 +3,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Projects
----
-# Project 1
+# Projects
 
-# Project 2
+## Project 1
 
-# Project 3
+## Project 2
 
-# Project 4
+## Project 3
+
+## Project 4
 
 
