@@ -4,10 +4,14 @@ permalink: /research/
 author_profile: true
 ---
 
-|<!-- -->|     
-|--------|
-
-<span style=font-size:4em;"> Project-1 </span> <img align="right" width="250" height="125" src="https://ekanshsareen.github.io/files/rp_1.png">|
+# Projects I've worked on
+## Project-1
+<p> project description here <img align="right" width="250" height="125" src="https://ekanshsareen.github.io/files/rp_1.png"> </p>
+## Project-2
+## Project-3
+## Project-4
+<!---
 project description here <img align="right" width="250" height="125" src="https://ekanshsareen.github.io/files/rp_1.png">|
 project description here <img align="right" width="250" height="125" src="https://ekanshsareen.github.io/files/rp_1.png">|
 project description here <img align="right" width="250" height="125" src="https://ekanshsareen.github.io/files/rp_1.png">|
+-->
