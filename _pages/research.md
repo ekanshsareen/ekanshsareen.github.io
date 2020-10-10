@@ -4,8 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Project-1
-### Functional brain organization in IDD individuals during music perception 
+## Functional brain organization in IDD individuals during music perception 
 <p align="center">
   <img width="250" height="125" src="https://ekanshsareen.github.io/files/rp_1.png">
 </p>
