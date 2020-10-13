@@ -29,21 +29,21 @@ Work experience
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Dr. Arindam Dey <br>
    
-   * *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
+   - *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
 
 ### Empathic Computing Laboratory, Auckland Bioengineering Institute, University of Auckland | 2019 - Present <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Mr. Amit Barde <br>
    
-   * *Inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
+   - *Inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
    
 ### SBILab, IIIT-Delhi | 2017 - 2019 <br>
    <b>Position</b>: Undergraduate Researcher <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br> 
    
-   * *Network science based evaluation functional brain networks* <br>
-   * *Studying functional brain networks associated with neurodevelopmental disorders like Autism, IDD etc.* <br>
-   * *A robust, fully-automated pre-processing pipeline for EEG data* <br>
+   - *Network science based evaluation functional brain networks* <br>
+   - *Studying functional brain networks associated with neurodevelopmental disorders like Autism, IDD etc.* <br>
+   - *A robust, fully-automated pre-processing pipeline for EEG data* <br>
   
 Skills
 ======
