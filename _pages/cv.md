@@ -10,15 +10,9 @@ redirect_from:
 {% include base_path %}
 <p>
   <img style="float: left;" src="https://ekanshsareen.github.io/files/logo.png" width="100" />
-  <p style="text-align: center;">
-    hey there this text goes next to image  
-  </p>
+   hey there this text goes next to image  
 </p>
 
-<p float="left">
-  <img src="https://ekanshsareen.github.io/files/logo.png" width="100" />
-</p>
-hey there this text goes next to image
 
 | | |
 |-|-|
