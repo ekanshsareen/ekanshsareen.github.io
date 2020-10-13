@@ -17,9 +17,9 @@ Work experience
 ======
 
 ### Research Assisstant at SBILab, IIIT-Delhi | 2019 - Present
-   PI: Prof. Anubha Gupta
-      *Task - 1
-      *Task - 2
+   PI: Prof. Anubha Gupta <br>
+   * Task - 1
+   * Task - 2
    
 
 
