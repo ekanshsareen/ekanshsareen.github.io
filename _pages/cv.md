@@ -47,12 +47,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Programming
+MATLAB, Python, Git/Github <br>
+
+### Specialized software
+EEGLAB, SPM, LORETA, Brainstorm, BrainNet Viewer, MRIcron, ERPlab <br>
+
+### Methods
+- <b>Neuroimaging modalities</b>: EEG, fMRI, MEG <br>
+- <b>Research methods</b>: Signal Processing, Cognitive, Behavioral/Psychophysical, Functional anatomy, Statistical models <br>
 
 Publications
 ======
@@ -74,4 +77,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+ <b>IEEE Signal Processing Society, Delhi Chapter</b> <br>
+ Position: Executive Committee Memeber (Public Secretary)
