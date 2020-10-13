@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-| | | |
-|-|-|-|
-|__Bold Key__| Value1 |
+| | |
+|-|-|
+| Bold Key | Value1 |
 | Normal Key | Value2 |
 
 <details>
