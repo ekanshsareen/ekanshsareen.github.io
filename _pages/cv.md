@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+<details>
+<summary>Education</summary>
+&nbsp; | &nbsp;
+------ | -----
+Stuff  | More things
+</details>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
