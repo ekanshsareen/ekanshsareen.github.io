@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+       |      
+------ | -----
+Stuff  | More things
 
 <details>
 <summary>Education</summary>
- | ;
------- | -----
-Stuff  | More things
+
 </details>
 
 Education
