@@ -11,7 +11,7 @@ Journals
 <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <br>
 Year: 2020 | [Access paper](https://doi.org/10.1109/TNSRE.2020.3024937)
 
-<b>A comparative study on inter-brain synchrony in real and virtual environments using hyperscanning</b> <br> 
+<b>[A comparative study on inter-brain synchrony in real and virtual environments using hyperscanning](https://ekanshsareen.github.io/publications/cng_article)</b> <br> 
 Ihshan Gumilar, <b> Ekansh Sareen </b>, Reed Bell, Augustus Stone, Ashkan Hayati, Jingwen Mao, Amit Barde, Anubha Gupta, Arindam Dey, Gun Lee, Mark Billinghurst <br> <i>Computers & Graphics</i> <br>
 Year: 2020 
 
