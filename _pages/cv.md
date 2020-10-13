@@ -16,14 +16,29 @@ Education
 Work experience
 ======
 
-### Research Assisstant at SBILab, IIIT-Delhi | 2019 - Present
-   PI: Prof. Anubha Gupta <br>
-   * Task - 1
-   * Task - 2
+### SBILab, IIIT-Delhi | 2019 - Present
+   Position: Research Assisstant <br>
+   Supervisor: Prof. Anubha Gupta <br>
+   *Functional brain organization in IDD individuals during music perception
+   *Network neuroscience-inspired and permutation-based statistical framework
+   *Source localization based investigation of Motor Imagery (MI)
+   *EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and music stimuli
    
+### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | 2019 - 2020
+   Position: Researcher <br>
+   Supervisor: Dr. Arindam Dey <br>
+   *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality
 
-
-
+### Empathic Computing Laboratory, Auckland Bioengineering Institute, University of Auckland | 2019 - Present
+   Position: Researcher <br>
+   Supervisor: Mr. Amit Barde <br>
+   *Inter-brain synchronization in the real and virtual world using EEG hyperscanning
+   
+### Undergraduate Researcher at SBILab, IIIT-Delhi | 2017 - 2019
+   Supervisor: Prof. Anubha Gupta <br>
+   *Network science based evaluation functional brain networks
+   *Studying functional brain networks associated with neurodevelopmental disorders like Autism, IDD etc.
+   *A robust, fully-automated pre-processing pipeline for EEG data
   
 Skills
 ======
