@@ -16,8 +16,11 @@ Education
 Work experience
 ======
 
-## SBILab, IIIT-Delhi | 2019 - Present
-> > hhaha ljds djs lsj fsflsk 
+### Research Assisstant at SBILab, IIIT-Delhi | 2019 - Present
+   PI: Prof. Anubha Gupta
+   
+
+
 
   
 Skills
