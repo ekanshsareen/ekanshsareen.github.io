@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 
-### SBILab, IIIT-Delhi | 2019 - Present <br>
+### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | 2019 - Present <br>
    <b>Position</b>: Research Assisstant <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br>
    
@@ -31,13 +31,13 @@ Work experience
    
    - *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
 
-### Empathic Computing Laboratory, Auckland Bioengineering Institute, University of Auckland | 2019 - Present <br>
+### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | 2019 - Present <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Mr. Amit Barde <br>
    
    - *Inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
    
-### SBILab, IIIT-Delhi | 2017 - 2019 <br>
+### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | 2017 - 2019 <br>
    <b>Position</b>: Undergraduate Researcher <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br> 
    
