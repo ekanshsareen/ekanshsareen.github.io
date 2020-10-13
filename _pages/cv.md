@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<p float="left">
+  <img src="https://ekanshsareen.github.io/files/logo.png" width="100" />
+  <img src="https://ekanshsareen.github.io/files/logo.png" width="100" /> 
+</p>
+
+
 | | |
 |-|-|
 | Bold Key | Value1 |
