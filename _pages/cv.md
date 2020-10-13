@@ -11,9 +11,8 @@ redirect_from:
 
 <p float="left">
   <img src="https://ekanshsareen.github.io/files/logo.png" width="100" />
-  <img src="https://ekanshsareen.github.io/files/logo.png" width="100" /> 
 </p>
-
+hey there this text goes next to image
 
 | | |
 |-|-|
