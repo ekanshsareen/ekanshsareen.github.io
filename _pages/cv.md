@@ -8,37 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-<img style="float: left;" src="https://ekanshsareen.github.io/files/logo.png" width="100" />
-<p style='text-align: justify;'> hey there this text goes next to image </p>   
-
-
-| | |
-|-|-|
-| Bold Key | Value1 |
-| Normal Key | Value2 |
-
-<details>
-<summary>Education</summary>
-
-</details>
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B. Tech in Electronics and Communication Engineering (ECE), IIIT-Delhi, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## SBILab, IIIT-Delhi | 2019 - Present
+> > hhaha ljds djs lsj fsflsk 
+
   
 Skills
 ======
