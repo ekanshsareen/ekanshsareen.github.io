@@ -30,8 +30,8 @@ Work experience
    *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
 
 ### Empathic Computing Laboratory, Auckland Bioengineering Institute, University of Auckland | 2019 - Present <br>
-   Position: Researcher <br>
-   Supervisor: Mr. Amit Barde <br>
+   <b>Position</b>: Researcher <br>
+   <b>Supervisor</b>: Mr. Amit Barde <br>
    *Inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
    
 ### Undergraduate Researcher at SBILab, IIIT-Delhi | 2017 - 2019 <br>
