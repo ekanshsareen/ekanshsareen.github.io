@@ -17,16 +17,16 @@ Work experience
 ======
 
 ### SBILab, IIIT-Delhi | 2019 - Present <br>
-   Position: Research Assisstant <br>
-   Supervisor: Prof. Anubha Gupta <br>
-   *Functional brain organization in IDD individuals during music perception* <br>
-   *Network neuroscience-inspired and permutation-based statistical framework* <br>
-   *Source localization based investigation of Motor Imagery (MI)* <br>
-   *EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and music stimuli* <br>
+   <b>Position</b>: Research Assisstant <br>
+   <b>Supervisor</b>: Prof. Anubha Gupta <br>
+   *Functional brain organization in IDD individuals during music perception* <br>
+   *Network neuroscience-inspired and permutation-based statistical framework* <br>
+   *Source localization based investigation of Motor Imagery (MI)* <br>
+   *EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and music stimuli* <br>
    
 ### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | 2019 - 2020 <br>
-   Position: Researcher <br>
-   Supervisor: Dr. Arindam Dey <br>
+   <b>Position</b>: Researcher <br>
+   <b>Supervisor</b>: Dr. Arindam Dey <br>
    *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
 
 ### Empathic Computing Laboratory, Auckland Bioengineering Institute, University of Auckland | 2019 - Present <br>
