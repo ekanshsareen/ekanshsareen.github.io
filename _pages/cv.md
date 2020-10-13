@@ -12,7 +12,7 @@ redirect_from:
 
 <details>
 <summary>Education</summary>
-&nbsp; | &nbsp;
+ | ;
 ------ | -----
 Stuff  | More things
 </details>
