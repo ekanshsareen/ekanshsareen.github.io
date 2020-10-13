@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-       |      
------- | -----
-Stuff  | More things
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 
 <details>
 <summary>Education</summary>
