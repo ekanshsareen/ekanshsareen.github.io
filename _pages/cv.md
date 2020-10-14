@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B. Tech in Electronics and Communication Engineering (ECE), IIIT-Delhi, 2019
+   <b>IIIT-Delhi | 2015-2019</b>
+   *B. Tech in Electronics and Communication Engineering (ECE)*
 
 Work experience
 ======
