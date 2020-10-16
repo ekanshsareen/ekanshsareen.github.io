@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
    <b>IIIT-Delhi | 2015-2019</b><br>
-   *B. Tech in Electronics and Communication Engineering (ECE)*
+   *B. Tech in Electronics and Communication Engineering (ECE)* <br>
    - *Awarded gold medal for the best B. Tech Project (Research track)* 
 
 Work experience
