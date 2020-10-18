@@ -25,7 +25,7 @@ Work experience
    - *Functional brain organization in IDD individuals during music perception* <br>
    - *Network neuroscience-inspired and permutation-based statistical framework* <br>
    - *Source localization based investigation of Motor Imagery (MI)* <br>
-   - *EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and music stimuli* <br>
+   - *EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and   music stimuli* <br>
    
 ### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | 2019 - 2020 <br>
    <b>Position</b>: Researcher <br>
