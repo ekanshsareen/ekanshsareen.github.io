@@ -67,10 +67,12 @@ Publications
 
 Awards
 ======
-  <b>IIITD Gold Medal in Research | 2019 </b> <br>
+  <b>IIITD Gold Medal in Research | 2019 </b> <br>  
   Institute Gold Medal in research recognizes the most outstanding and socially impactful undergraduateresearch project
+  
   <b>IIITD Excellent Mentor Award | 2019 </b> <br>
   IIITD Student Mentorship program recognizes the best performing mentors who have assisted freshmen/sophomore year students in adjusting to the college environment on academic and personal grounds <br>
+  
   <b>National Talent Search Examination (NTSE) Scholar | 2014 </b> <br>
   NTSE is a national-level scholarship program at the secondary school level that identifies and supports thehigher education of students with high intellect and academic talent
   
