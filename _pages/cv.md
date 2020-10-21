@@ -79,5 +79,15 @@ Teaching
   
 Service and leadership
 ======
- <b>IEEE Signal Processing Society, Delhi Chapter</b> <br>
- Position: Executive Committee Memeber (Public Secretary)
+ 
+<b>Public Secretary, IEEE Signal Processing Society Delhi Chapter | Dec 2019-Present<b> <br>
+  As Public Secretary of IEEE SPS Delhi Chapter, I have assisted in organizing multiple distinguished lectures,summer schools, technical talks and membership-drive events
+  
+<b>Research Mentor, SBILab IIITD|2019-Present <b> <br>
+  Being a senior researcher at SBILab, I have mentored and trained 4 undergraduate researchers, 2 internationalvisitors and 2 research interns in EEG signal processing and analysis
+  
+  <b>Organizer, Summer School on EEG Analysis and Allied Technologies|SBILab-IIITD July 2019 <b> <br>
+  As the lead organizer from SBILab-IIITD, I assisted in organizing a 5-day summer school to promote researchin EEG analysis among researchers with background in signal processing, computer science, and neuroscience
+  
+  <b>Mentor, IIITD Student Mentorship Program|Fall 2018–Spring 2020<b> <br>
+  IIITD Student Mentorship program enrolls senior students to assist freshmen/sophomore year students inadjusting to the college environment on academic and personal grounds
