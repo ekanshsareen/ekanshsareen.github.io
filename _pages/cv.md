@@ -67,7 +67,7 @@ Publications
 
 Awards
 ======
-  <b>IIITD Gold Medal in Research | 2019 </b> <br>  
+  <b>IIITD Gold Medal in Research | 2019 </b> <br>
   Institute Gold Medal in research recognizes the most outstanding and socially impactful undergraduateresearch project
   
   <b>IIITD Excellent Mentor Award | 2019 </b> <br>
