@@ -13,7 +13,7 @@ Education
 ======
    <b>IIIT-Delhi | 2015-2019</b><br>
    *B. Tech in Electronics and Communication Engineering (ECE)* <br>
-   - *Awarded gold medal for the best B. Tech Project (Research track)* 
+   - *Institute Gold Medal in Research (for best B.Tech research project)* 
 
 Work experience
 ======
@@ -21,27 +21,38 @@ Work experience
 ### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | 2019 - Present <br>
    <b>Position</b>: Research Assisstant <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br>
+   <b>Location</b>: New Delhi, India <br>
    
    - *Functional brain organization in IDD individuals during music perception* <br>
    - *Network neuroscience-inspired and permutation-based statistical framework* <br>
    - *Source localization based investigation of Motor Imagery (MI)* <br>
    - *EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and   music stimuli* <br>
    
+### MIP:lab, EPFL | 2019 - 2020 <br>
+   <b>Position</b>: Researcher <br>
+   <b>Supervisor</b>: Dr. Arindam Dey <br>
+   <b>Location</b>: Laussane, Switzerland [Remote] <br>
+   
+   - *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
+   
 ### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | 2019 - 2020 <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Dr. Arindam Dey <br>
+   <b>Location</b>: Brisbane, Australia [Remote] <br>
    
    - *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
 
 ### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | 2019 - Present <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Mr. Amit Barde <br>
+   <b>Location</b>: Auckland, New Zealand [Remote] <br>
    
    - *Inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
    
 ### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | 2017 - 2019 <br>
    <b>Position</b>: Undergraduate Researcher <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br> 
+   <b>Location</b>: New Delhi, India <br>
    
    - *Network science based evaluation functional brain networks* <br>
    - *Studying functional brain networks associated with neurodevelopmental disorders like Autism, IDD etc.* <br>
@@ -95,11 +106,11 @@ Service and leadership
 <b>Public Secretary, IEEE Signal Processing Society Delhi Chapter | Dec 2019-Present</b> <br>
   As Public Secretary of IEEE SPS Delhi Chapter, I have assisted in organizing multiple distinguished lectures,summer schools, technical talks and membership-drive events
   
-<b>Research Mentor, SBILab IIITD|2019-Present </b> <br>
+<b>Research Mentor, SBILab IIITD | 2019-Present </b> <br>
   Being a senior researcher at SBILab, I have mentored and trained 4 undergraduate researchers, 2 internationalvisitors and 2 research interns in EEG signal processing and analysis
   
-  <b>Organizer, Summer School on EEG Analysis and Allied Technologies|SBILab-IIITD July 2019 </b> <br>
+  <b>Organizer, Summer School on EEG Analysis and Allied Technologies | SBILab-IIITD July 2019 </b> <br>
   As the lead organizer from SBILab-IIITD, I assisted in organizing a 5-day summer school to promote researchin EEG analysis among researchers with background in signal processing, computer science, and neuroscience
   
-  <b>Mentor, IIITD Student Mentorship Program|Fall 2018–Spring 2020</b> <br>
+  <b>Mentor, IIITD Student Mentorship Program | Fall 2018–Spring 2020</b> <br>
   IIITD Student Mentorship program enrolls senior students to assist freshmen/sophomore year students inadjusting to the college environment on academic and personal grounds
