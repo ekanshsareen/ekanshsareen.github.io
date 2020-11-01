@@ -1,7 +1,7 @@
 ---
 title: "A comparative study on inter-brain synchrony in real and virtual environments using hyperscanning"
 collection: publications
-permalink: /publications/cng_article
+permalink: /publications/2_cng_article
 year: 2020
 venue: 'Computers & Graphics'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
