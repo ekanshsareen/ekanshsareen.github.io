@@ -5,7 +5,7 @@ permalink: /publications/7_datarep
 year: 2020
 venue: 'Mendeley Data
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'E. Sareen, L. Singh, A. Gupta, B. Varkey, and K. Achary., EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and musical stimulus [dataset]. 2020, <i>Mendeley Data</i>, doi: http://dx.doi.org/10.17632/fshy54ypyh.2.'
+citation: 'E. Sareen, L. Singh, A. Gupta, B. Varkey, and K. Achary. EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and musical stimulus (dataset). 2020, <i>Mendeley Data</i>, doi: http://dx.doi.org/10.17632/fshy54ypyh.2.'
 ---
 
 ## Abstract
