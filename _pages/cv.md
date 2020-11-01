@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+An interactive version of my CV can be found below. If you'd prefer a PDF version, please click this link instead.
 [Link button](http://example.com/){: .btn .btn-blue }
 
 Education
