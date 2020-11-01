@@ -5,7 +5,7 @@ permalink: /publications/dib_article
 year: 2020
 venue: 'Data in Brief, Elsevier'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'E. Sareen, L. Singh, B. Varkey, G. Krishnaveni Achary, and A. Gupta, "EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli,"<i>Data in Brief, Elsevier </i>, Vol. 30, 2020, 105488, ISSN 2352-3409, doi: https://doi.org/10.1016/j.dib.2020.105488.'
+citation: 'E. Sareen, L. Singh, B. Varkey, G. Krishnaveni Achary, and A. Gupta, "EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli,"<i>Data in Brief, Elsevier </i>, Vol. 30, 2020, 105488, ISSN 2352-3409, doi: 10.1016/j.dib.2020.105488.'
 ---
 
 ## Abstract
