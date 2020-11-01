@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | 2019 - Present <br>
+### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | July 2019 - Present <br>
    <b>Position</b>: Research Assisstant <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br>
    <b>Location</b>: New Delhi, India <br>
@@ -27,28 +27,28 @@ Work experience
    - *Developed a Network neuroscience-inspired and permutation-based statistical framework* <br>
    - *Characterization of Motor Imagery using EEG source localization methods* <br>
    
-### MIP:lab, EPFL | 2019 - 2020 <br>
+### MIP:lab, EPFL | May 2020 - Present <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Prof. Dimitri Van De Ville, Dr. Alessandra Griffa, Dr. Enrico Amico <br>
    <b>Location</b>: Laussane, Switzerland [Remote] <br>
    
    - *Investigating identifiability in human functional connectome using magnetoencephalography* <br>
 
-### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | 2019 - Present <br>
+### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | Oct. 2019 - Oct. 2020 <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Mr. Amit Barde <br>
    <b>Location</b>: Auckland, New Zealand [Remote] <br>
    
    - *Investigating inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
    
-### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | 2019 - 2020 <br>
+### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | Oct. 2019 - Present <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Dr. Arindam Dey <br>
    <b>Location</b>: Brisbane, Australia [Remote] <br>
    
    - *Exploring the neurophysiological effects of interacting with facial expressions and controllers in virtual reality* <br>
    
-### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | 2017 - 2019 <br>
+### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | Sep. 2017 - April 2019 <br>
    <b>Position</b>: Undergraduate Researcher <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br> 
    <b>Location</b>: New Delhi, India <br>
