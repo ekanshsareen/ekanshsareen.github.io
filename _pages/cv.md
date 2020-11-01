@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-An interactive version of my CV can be found below. If you'd prefer a PDF version, please click this link instead.
+{% include base_path %} <br>
+An interactive version of my CV can be found below. If you'd prefer a PDF version, please click this link instead. <br>
 [Link button](http://example.com/){: .btn .btn-blue }
 
 Education
