@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Link button](http://example.com/){: .btn .btn-blue }
+
 Education
 ======
    <b>IIIT-Delhi | 2015-2019</b><br>
