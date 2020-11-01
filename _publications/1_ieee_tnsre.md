@@ -1,7 +1,7 @@
 ---
 title: "Functional Brain Connectivity Analysis in Intellectual Developmental Disorder during Music Perception"
 collection: publications
-permalink: /publications/ieee_tnsre
+permalink: /publications/1_ieee_tnsre
 year: 2020
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
