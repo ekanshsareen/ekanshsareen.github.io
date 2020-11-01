@@ -21,42 +21,40 @@ Work experience
 ### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | 2019 - Present <br>
    <b>Position</b>: Research Assisstant <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br>
-   <b>Location</b>: New Delhi, India <br>
+   <b>Location</b>: New Delhi, India <br>
    
-   - *Functional brain organization in IDD individuals during music perception* <br>
-   - *Network neuroscience-inspired and permutation-based statistical framework* <br>
-   - *Source localization based investigation of Motor Imagery (MI)* <br>
-   - *EEG dataset of individuals with intellectual and developmental disorder and healthy controls while observing rest and   music stimuli* <br>
+   - *Investigating functional brain connectivity in Intellectual Developmental Disorder during music perception* <br>
+   - *Developed a Network neuroscience-inspired and permutation-based statistical framework* <br>
+   - *Characterization of Motor Imagery using EEG source localization methods* <br>
    
 ### MIP:lab, EPFL | 2019 - 2020 <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Dr. Arindam Dey <br>
-   <b>Location</b>: Laussane, Switzerland [Remote] <br>
+   <b>Location</b>: Laussane, Switzerland [Remote] <br>
    
-   - *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
-   
-### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | 2019 - 2020 <br>
-   <b>Position</b>: Researcher <br>
-   <b>Supervisor</b>: Dr. Arindam Dey <br>
-   <b>Location</b>: Brisbane, Australia [Remote] <br>
-   
-   - *Exploring the Neurophysiological Effects of Interacting with Facial Expressions and Controllers in Virtual Reality* <br>
+   - *Investigating identifiability in human functional connectome using magnetoencephalography* <br>
 
 ### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | 2019 - Present <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Mr. Amit Barde <br>
-   <b>Location</b>: Auckland, New Zealand [Remote] <br>
+   <b>Location</b>: Auckland, New Zealand [Remote] <br>
    
-   - *Inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
+   - *Investigating inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
+   
+### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | 2019 - 2020 <br>
+   <b>Position</b>: Researcher <br>
+   <b>Supervisor</b>: Dr. Arindam Dey <br>
+   <b>Location</b>: Brisbane, Australia [Remote] <br>
+   
+   - *Exploring the neurophysiological effects of interacting with facial expressions and controllers in virtual reality* <br>
    
 ### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | 2017 - 2019 <br>
    <b>Position</b>: Undergraduate Researcher <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br> 
-   <b>Location</b>: New Delhi, India <br>
+   <b>Location</b>: New Delhi, India <br>
    
-   - *Network science based evaluation functional brain networks* <br>
-   - *Studying functional brain networks associated with neurodevelopmental disorders like Autism, IDD etc.* <br>
-   - *A robust, fully-automated pre-processing pipeline for EEG data* <br>
+   - *Developed a robust, fully-automated pre-processing pipeline for EEG data* <br>
+   - *Evaluation of functional brain networks using network science methods* <br>
   
 Skills
 ======
