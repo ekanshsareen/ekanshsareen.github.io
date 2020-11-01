@@ -10,7 +10,7 @@ author_profile: true
 </p>
 People with neurodevelopmental disorders like Intellectual Developmental Disorder (IDD), Autism, ADHD, etc. have difficulties in social interaction and communication. These deficits majorly affect their lifestyle and well-being. This research work advances the idea of a potential early-life intervention strategy using contemporary classical music to alleviate the effect of such deficits. We found that the music stimulus actuates an improved neuropsychological status in individuals with IDD. This work significantly contributes to the area of rehabilitation engineering targeted for individuals with neurodevelopmental disorders. <br>
 
-### Affiliation: <button type="button" name="button" class="btn">SBILab, IIITD</button> <button type="button" name="button" class="btn">AIIMS</button> 
+#### Affiliation: <button type="button" name="button" class="btn">SBILab, IIITD</button> <button type="button" name="button" class="btn">AIIMS</button> 
 
 ## Network neuroscience-inspired and permutation-based statistical framework
 <p align="center">
