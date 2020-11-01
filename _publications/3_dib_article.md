@@ -1,7 +1,7 @@
 ---
 title: "EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli"
 collection: publications
-permalink: /publications/dib_article
+permalink: /publications/3_dib_article
 year: 2020
 venue: 'Data in Brief, Elsevier'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
