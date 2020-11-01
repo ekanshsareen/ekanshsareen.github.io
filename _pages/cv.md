@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} <br>
+{% include base_path %}
 Web version of my CV can be found below. If you'd prefer a PDF version, please click this link instead. <br>
 [Link button](http://example.com/){: .btn}
 
