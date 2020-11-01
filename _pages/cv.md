@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %} <br>
-An interactive version of my CV can be found below. If you'd prefer a PDF version, please click this link instead. <br>
-[Link button](http://example.com/){: .btn .btn-blue }
+Web version of my CV can be found below. If you'd prefer a PDF version, please click this link instead. <br>
+[Link button](http://example.com/){: .btn}
 
 Education
 ======
