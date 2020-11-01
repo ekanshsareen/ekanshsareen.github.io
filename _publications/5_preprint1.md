@@ -1,12 +1,11 @@
 ---
 title: "Studying functional brain networks fromdry electrode EEG set during music and resting states in neurodevelopment disorder"
 collection: publications
-permalink: /publications/preprint1
+permalink: /publications/5_preprint1
 year: 2019
 venue: 'bioRxiv'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: "E. Sareen, A. Gupta, R. Verma, G.K. Achary, and B. Varkey. Studying functional brain networks fromdry electrode EEG set during music and resting states in neurodevelopment disorder. 
-<i>bioRxiv</i>, 759738, 2019. doi: 10.1101/759738."
+citation: 'E. Sareen, A. Gupta, R. Verma, G.K. Achary, and B. Varkey. Studying functional brain networks fromdry electrode EEG set during music and resting states in neurodevelopment disorder. <i>bioRxiv</i>, 759738, 2019. doi: 10.1101/759738.'
 ---
 ## Abstract
 There has been an emerging interest in the study of functional brain networks in cognitive neuroscience in order to better understand brain responses 
