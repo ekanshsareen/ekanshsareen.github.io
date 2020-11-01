@@ -1,11 +1,11 @@
 ---
 title: "A miniaturized dual-band right triangle defected groundstructure band stop filter for energy harvesting applications"
 collection: publications
-permalink: /publications/imarc
+permalink: /publications/6_imarc
 year: 2018
 venue: 'In 2018 IEEE MTTS International Microwave and RF Conference (IMaRC)'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: "S. Verma, E. Sareen, and M.S. Hashmi. A miniaturized dual-band right triangle defected groundstructure band stop filter for energy harvesting applications. <i>In 2018 IEEE MTTS International Microwave and RF Conference (IMaRC)</i>, pages 1–3, 2018. doi: 10.1109/IMaRC.2018.8877313."
+citation: 'S. Verma, E. Sareen, and M.S. Hashmi. A miniaturized dual-band right triangle defected groundstructure band stop filter for energy harvesting applications. <i>In 2018 IEEE MTTS International Microwave and RF Conference (IMaRC)</i>, pages 1–3, 2018. doi: 10.1109/IMaRC.2018.8877313.'
 ---
 ## Abstract
 This paper reports a new dual band-stop filter structure using two cascaded right triangle with distinct capacitors in the excitation gap to ensure two resonances. 
