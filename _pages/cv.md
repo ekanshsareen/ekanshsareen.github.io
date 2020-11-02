@@ -15,7 +15,7 @@ Education
 ======
    <b>IIIT-Delhi | 2015-2019</b><br>
    *B. Tech in Electronics and Communication Engineering (ECE)* <br>
-   - *Institute Gold Medal in Research (for best B.Tech research project)* 
+   - *Institute Gold Medalist in Research* 
 
 Work experience
 ======
