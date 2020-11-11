@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 Web version of my CV can be found below. If you'd prefer a PDF version, please click this link instead. <br>
-[Link button](https://ekanshsareen.github.io/files/Sareen_CV.pdf){: .btn}
+[CV](https://ekanshsareen.github.io/files/Sareen_CV.pdf){: .btn}
 
 Education
 ======
