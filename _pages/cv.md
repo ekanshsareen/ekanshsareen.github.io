@@ -35,21 +35,21 @@ Work experience
    <b>Location</b>: Laussane, Switzerland [Remote] <br>
    - *Investigating identifiability in human functional connectome using magnetoencephalography* <br>  --->
 
-### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | Oct. 2019 - Oct. 2020 <br>
+### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | Oct 2019 - Oct 2020 <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Mr. Amit Barde <br>
    <b>Location</b>: Auckland, New Zealand [Remote] <br>
    
    - *Investigating inter-brain synchronization in the real and virtual world using EEG hyperscanning* <br>
    
-### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | Oct. 2019 - Present <br>
+### Empathic Extended Reality & Pervasive Computing Lab, University of Queensland | Oct 2019 - Present <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Dr. Arindam Dey <br>
    <b>Location</b>: Brisbane, Australia [Remote] <br>
    
    - *Exploring the neurophysiological effects of interacting with facial expressions and controllers in virtual reality* <br>
    
-### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | Sep. 2017 - April 2019 <br>
+### [SBILab, IIIT-Delhi](http://sbilab.iiitd.edu.in/) | Sep 2017 - April 2019 <br>
    <b>Position</b>: Undergraduate Researcher <br>
    <b>Supervisor</b>: Prof. Anubha Gupta <br> 
    <b>Location</b>: New Delhi, India <br>
@@ -112,5 +112,5 @@ I have mentored and trained 4 undergraduate researchers, 2 international visitor
   <b>Organizer, Summer School on EEG Analysis and Allied Technologies Organized by SBILab-IIITD | July 2019 </b> <br>
 I assisted in organizing a 5-day summer school to promote research in EEG analysis among researchers with background in signal processing, computer science, and neuroscience
   
- <b>Mentor, IIITD Student Mentorship Program | Aug. 2018 – March 2020</b> <br>
+ <b>Mentor, IIITD Student Mentorship Program | Aug 2018 – March 2020</b> <br>
   IIITD Student Mentorship program enrolls senior students to assist freshmen/sophomore year students in adjusting to the college environment on academic and personal grounds
