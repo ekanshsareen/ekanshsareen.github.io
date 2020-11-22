@@ -29,12 +29,12 @@ Work experience
    - *Developed a Network neuroscience-inspired and permutation-based statistical framework* <br>
    - *Characterization of Motor Imagery using EEG source localization methods* <br>
    
-### MIP:lab, EPFL | May 2020 - Present <br>
+<--- ### MIP:lab, EPFL | May 2020 - Present <br>
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Prof. Dimitri Van De Ville, Dr. Alessandra Griffa, Dr. Enrico Amico <br>
    <b>Location</b>: Laussane, Switzerland [Remote] <br>
    
-   - *Investigating identifiability in human functional connectome using magnetoencephalography* <br>
+   - *Investigating identifiability in human functional connectome using magnetoencephalography* <br> ---->
 
 ### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | Oct. 2019 - Oct. 2020 <br>
    <b>Position</b>: Researcher <br>
