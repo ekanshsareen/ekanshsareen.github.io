@@ -33,7 +33,7 @@ Work experience
    <b>Position</b>: Researcher <br>
    <b>Supervisor</b>: Prof. Dimitri Van De Ville, Dr. Alessandra Griffa, Dr. Enrico Amico <br>
    <b>Location</b>: Laussane, Switzerland [Remote] <br>
-   - *Investigating identifiability in human functional connectome using magnetoencephalography* <br>
+   - *Investigating identifiability in human functional connectome using magnetoencephalography* <br>  --->
 
 ### [Empathic Computing Laboratory](http://empathiccomputing.org/), Auckland Bioengineering Institute, University of Auckland | Oct. 2019 - Oct. 2020 <br>
    <b>Position</b>: Researcher <br>
