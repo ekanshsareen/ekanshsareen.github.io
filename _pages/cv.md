@@ -60,14 +60,14 @@ Work experience
 Skills
 ======
 ### Programming
-MATLAB, Python, Git/Github <br>
+MATLAB, Python, Git/Github, LaTeX <br>
 
 ### Specialized software
 EEGLAB, SPM, LORETA, Brainstorm, BrainNet Viewer, MRIcron, ERPlab <br>
 
 ### Methods
 - <b>Neuroimaging modalities</b>: EEG, MEG, fMRI <br>
-- <b>Research methods</b>: Signal Processing, Cognitive interpretation/analysis, Behavioral/Psychophysical research, Functional anatomy, Statistical models, Large scale data collections/surveys <br>
+- <b>Research methods</b>: Signal Processing, Functional connectivity, Behavioral/Psychophysical research, Cognitive interpretation/analysis, Functional anatomy, Statistical models, Large scale data collections/surveys <br>
 
 Publications
 ======
@@ -77,11 +77,12 @@ Publications
 
 Awards
 ======
+
+  <b>IIITD Dean’s Award for Innovation, Research and Development [Research] | 2020 </b> <br>
+  IIITD Dean’s award for innovation, research and development recognizes an individual or team that has developed and/or implemented an innovation in engineering,  research, socially relevant or industry project <br>
+  
   <b>IIITD Gold Medal in Research | 2019 </b> <br>
   Institute Gold Medal in research recognizes the most outstanding and socially impactful undergraduate research project
-  
-  <b>IIITD Excellent Mentor Award | 2019 </b> <br>
-  IIITD Student Mentorship program recognizes the best performing mentors who have assisted freshmen/sophomore year students in adjusting to the college environment on academic and personal grounds <br>
   
   <b>National Talent Search Examination (NTSE) Scholar | 2014 </b> <br>
   NTSE is a national-level scholarship program at the secondary school level that identifies and supports the higher education of students with high intellect and academic talent
@@ -103,13 +104,13 @@ Service and leadership
 ======
  
 <b>Public Secretary, IEEE Signal Processing Society Delhi Chapter | Dec 2019 - Present</b> <br>
-  As Public Secretary of IEEE SPS Delhi Chapter, I have assisted in organizing multiple distinguished lectures, summer schools, technical talks and membership-drive events
+I have assisted in organizing multiple distinguished lectures, summer schools, technical talks and membership-drive events
   
 <b>Research Mentor, SBILab IIITD | 2019 - Present </b> <br>
-  Being a senior researcher at SBILab, I have mentored and trained 4 undergraduate researchers, 2 international visitors and 2 research interns in EEG signal processing and analysis
+I have mentored and trained 4 undergraduate researchers, 2 international visitors and 2 research interns in EEG signal processing and analysis
   
   <b>Organizer, Summer School on EEG Analysis and Allied Technologies Organized by SBILab-IIITD | July 2019 </b> <br>
-  As the lead organizer from SBILab-IIITD, I assisted in organizing a 5-day summer school to promote research in EEG analysis among researchers with background in signal processing, computer science, and neuroscience
+I assisted in organizing a 5-day summer school to promote research in EEG analysis among researchers with background in signal processing, computer science, and neuroscience
   
-  <b>Mentor, IIITD Student Mentorship Program | Aug. 2018 – March 2020</b> <br>
+ <b>Mentor, IIITD Student Mentorship Program | Aug. 2018 – March 2020</b> <br>
   IIITD Student Mentorship program enrolls senior students to assist freshmen/sophomore year students in adjusting to the college environment on academic and personal grounds
